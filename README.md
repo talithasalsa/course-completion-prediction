@@ -11,4 +11,4 @@ Project ini bertujuan untuk memprediksi apakah murid / pengguna online course da
 ---
 
 ## Deployment
-(HuggingFace)|[https://huggingface.co/spaces/talithasalsa/Milestone_2]
+[HuggingFace](https://huggingface.co/spaces/talithasalsa/Milestone_2)
